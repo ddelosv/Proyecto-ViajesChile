@@ -38,7 +38,7 @@ Este proyecto utiliza las siguientees tecnologías:
 
 - **JavaScript y jQuery**: Se han implementado interacciones dinámicas utilizando JavaScript y jQuery. Por ejemplo, se puede hacer clic en un titulo para mostrar u ocultar el contenido del parrafo.
 
-- **Google Fonts**: Se ha integrado una fuente personalizada de Google Fonts para mejorar la legibilidad del texto.
+- **Google Fonts**: Se ha integrado dos fuente personalizada de Google Fonts para mejorar la legibilidad del texto.
 
 - **Git y GitHub**: Se Gestiona el código fuente utilizando Github, inicializando GIT para versionar el proyecto localmente, realizando 5 o más commits y se crea la página en Github Pages.
 
