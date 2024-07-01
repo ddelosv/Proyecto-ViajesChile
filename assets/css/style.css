@@ -1,0 +1,47 @@
+/*...................Estilos contenido navbar....................... */
+
+.navbar-transparent {
+    background-color: transparent;
+}
+
+.navbar-scroll {
+    background-color: #2e2b2b;
+    /* Change this to your desired color */
+}
+
+.navbar {
+    transition: background-color 0.5s;
+    /* Adjust transition duration as needed */
+}
+
+.navbar-brand {
+    font-family: "Poppins";
+    font-size: 1.5rem !important;
+
+    img {
+        width: 35px;
+        vertical-align: text-top;
+    }
+}
+
+/*..................Estilos contenido carousel...................... */
+.carousel img {
+    max-height: 700px;
+    position: relative;
+    margin: 0 auto
+}
+
+#carousel-inner {
+    font-family: "Lato";
+    color: #F4F1E5;
+}
+
+/* Efecto transción de slade del carousel */
+.carousel-fade .carousel-item {
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.carousel-fade .carousel-item.active {
+    opacity: 1;
+}
